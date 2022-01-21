@@ -1,8 +1,11 @@
 {
-  "name": "apigeeregistry",
+  "name": "@giteshk-org/apigeeregistry",
   "version": "0.1.0",
   "description": "Apigeeregistry client for Node.js",
-  "repository": "googleapis/nodejs-apigeeregistry",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/giteshk-org/registry-client-nodejs.git"
+  },
   "license": "Apache-2.0",
   "author": "Google LLC",
   "main": "build/src/index.js",
@@ -45,8 +48,8 @@
     "@types/node": "^14.6.3",
     "@types/sinon": "^9.0.5",
     "c8": "^7.3.0",
-    "gts": "^2.0.2",
-    "jsdoc": "^3.6.5",
+    "gts": "^3.1.0",
+    "jsdoc": "^0.0.0",
     "jsdoc-fresh": "^1.0.2",
     "jsdoc-region-tag": "^1.0.6",
     "linkinator": "^2.1.2",
@@ -56,10 +59,17 @@
     "sinon": "^9.0.3",
     "ts-loader": "^8.0.3",
     "typescript": "^3.9.7",
-    "webpack": "^4.44.1",
-    "webpack-cli": "^3.3.12"
+    "webpack": "^5.67.0",
+    "webpack-cli": "^4.9.1"
   },
   "engines": {
     "node": ">=10.0.0"
+  },
+  "bugs": {
+    "url": "https://github.com/giteshk-org/registry-client-nodejs/issues"
+  },
+  "homepage": "https://github.com/giteshk-org/registry-client-nodejs#readme",
+  "directories": {
+    "test": "test"
   }
 }
