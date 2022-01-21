@@ -1,0 +1,11 @@
+[
+  "../../protos/google/cloud/apigeeregistry/v1/admin_models.proto",
+  "../../protos/google/cloud/apigeeregistry/v1/admin_service.proto",
+  "../../protos/google/cloud/apigeeregistry/v1/apihub/lifecycle.proto",
+  "../../protos/google/cloud/apigeeregistry/v1/apihub/taxonomies.proto",
+  "../../protos/google/cloud/apigeeregistry/v1/controller/manifest.proto",
+  "../../protos/google/cloud/apigeeregistry/v1/controller/receipt.proto",
+  "../../protos/google/cloud/apigeeregistry/v1/registry_models.proto",
+  "../../protos/google/cloud/apigeeregistry/v1/registry_notifications.proto",
+  "../../protos/google/cloud/apigeeregistry/v1/registry_service.proto"
+]
