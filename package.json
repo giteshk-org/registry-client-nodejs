@@ -71,8 +71,5 @@
   "homepage": "https://github.com/giteshk-org/registry-client-nodejs#readme",
   "directories": {
     "test": "test"
-  },
-  "publishConfig": {
-    "registry":"https://npm.pkg.github.com"
   }
 }
